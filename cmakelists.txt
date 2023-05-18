@@ -400,6 +400,7 @@ zlib.h
 cryptopp.rc
 )
 add_compile_definitions(CRYPTOPP_ENABLE_NAMESPACE_WEAK=1)
+add_compile_definitions(CRYPTOPP_DISABLE_ASM)
 
 target_link_libraries(cryptlib
 #ScuaLib
