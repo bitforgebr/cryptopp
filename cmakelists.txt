@@ -175,7 +175,7 @@ squaretb.cpp
 sse_simd.cpp
 strciphr.cpp
 tea.cpp
-test.cpp
+#test.cpp
 tftables.cpp
 threefish.cpp
 tiger.cpp
